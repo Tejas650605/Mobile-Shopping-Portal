@@ -23,7 +23,6 @@ A full-featured ecommerce website developed using PHP, MySQL, HTML, CSS and Java
 <img width="1366" height="768" alt="mobiles" src="https://github.com/user-attachments/assets/32debadb-d74f-4f27-aee0-22d3eacdd2c0" />
 <img width="1366" height="768" alt="login" src="https://github.com/user-attachments/assets/61bcec63-1ad2-438c-9ee7-c537d0e6d6c8" />
 <img width="1366" height="768" alt="register" src="https://github.com/user-attachments/assets/cc23c36d-a593-4796-835c-0c25072303ef" />
-<img width="1366" height="768" alt="login" src="https://github.com/user-attachments/assets/338b1f46-5f53-43f8-9a17-9028240e6f6b" />
 <img width="1366" height="768" alt="addtocart" src="https://github.com/user-attachments/assets/d6ae5c87-715e-47e6-aa7b-0e35bf5d559c" />
 
 )
