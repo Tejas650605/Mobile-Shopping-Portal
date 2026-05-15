@@ -18,7 +18,8 @@ A full-featured ecommerce website developed using PHP, MySQL, HTML, CSS and Java
 - JavaScript
 
 ## 📸 Project Screenshots
-(Add screenshots here)
+(<img width="1366" height="768" alt="home" src="https://github.com/user-attachments/assets/75d7d8a4-1330-4c7a-b020-fcc44dc2b99c" />
+)
 
 ## 👨‍💻 Developer
 Tejas Kherade
